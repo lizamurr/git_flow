@@ -1,2 +1,2 @@
-This is new feature.
+This is new feature1.
 Have a nice day :)
